@@ -1,0 +1,17 @@
+.container {
+    width: 30%;
+    justify-content: center;
+}
+
+body {
+    background-color: black;
+}
+
+label {
+    color: white;
+}
+
+.titulo {
+    text-align: center;
+    color: white;
+}
